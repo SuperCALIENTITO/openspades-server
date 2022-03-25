@@ -1,0 +1,2 @@
+# openspades-server
+openspades server
